@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Facebook-green?logo=linkedin&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge"/>
+
+
 <!--
 **lumenCodes/lumencodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
